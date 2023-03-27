@@ -1,6 +1,6 @@
 .product {
     width: 300px;
-    height: 500px;
+    height: 510px;
     border: 1px solid #95A0A7;
     border-radius: 8px;
     margin: 50px 50px 0 0;
@@ -53,7 +53,8 @@
     background: #FFE0B3;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
-    /* margin-top: 3px; */
+    padding: 12px 0;
+    /* margin-top: 3px;4 */
     position: absolute;
     bottom: 0;
     transition: .4s all ease;
